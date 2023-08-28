@@ -14,4 +14,4 @@ export const GET = async (request) => {
         return new Response("failed to fetch prompts", {status : 500})
         
     }
-}
+} 
