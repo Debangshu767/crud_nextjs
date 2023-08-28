@@ -15,3 +15,5 @@ export const GET = async (request) => {
         
     }
 } 
+
+export const revalidate = 10;
